@@ -65,9 +65,6 @@ Actualmente en proceso de consolidar una carrera profesional en el sector digita
 
 ## 📱 Contacto Profesional
 
-- **instagram:** (https://www.instagram.com/)
-- **tiktok:** (https://www.tiktok.com/es/)
-- **facebook:** (https://www.facebook.com/) 
 - **GitHub:** (https://github.com/ytjesus29)
 
 ---
