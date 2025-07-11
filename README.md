@@ -34,7 +34,7 @@ Actualmente en proceso de consolidar una carrera profesional en el sector digita
 ## 🎨 Proyectos Destacados (Portafolio)
 
 - 🎾 [Landing Page Carlos Alcaraz](https://ytjesus29.github.io/CARLOS_ALCARAZ/)
-- 🌐 [Landing Page ](https://ytjesus29.github.io/WEB_LANDPAGE.wediseño.webp/)
+- 🌐 [Landing Page ](https://ytjesus29.github.io/WEB_LANDPAGE.JPG/)
 - 🎾 [Landing Page Rafael Nadal](https://ytjesus29.github.io/RAFAEL_NADAL/)
 - 🌐 [Landing Page de cocteleria](https://ytjesus29.github.io/Cocteleria_Opt/)
 
